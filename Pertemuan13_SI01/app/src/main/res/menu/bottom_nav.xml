@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/produkFragment"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="Produk" />
+    <item
+        android:id="@+id/transaksiFragment"
+        android:icon="@drawable/ic_baseline_add_shopping_cart_24"
+        android:title="Transaksi" />
+    <item
+        android:id="@+id/laporanFragment"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:title="Laporan" />
+    <item
+        android:id="@+id/aboutFragment"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="About" />
+</menu>
